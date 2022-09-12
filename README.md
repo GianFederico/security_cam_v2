@@ -9,3 +9,4 @@ Plus: There is also an attempt to straighten roi (used for the recognition) thro
 
 Plus2: You can choose which OpenCV recognition methods between LBPH, Fisherfaces and Eigenfaces and just use the one that suits your data the best.
 In order to choose a different method to have open the face-train.py and remove the comments about the one you interested in and retrain the model. Then remove the comments also in camera.py.
+![photo_2022-05-23_19-03-59](https://user-images.githubusercontent.com/48125720/189713457-49bdd625-eac8-405b-aa60-6a90fd3402de.jpg)
