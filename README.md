@@ -1,7 +1,7 @@
 # SIDE-security_cam_v2
 An upgrade of the security_cam repo.
 
-This is an upgrade to SIDE-security_cam repo. 
+This is an upgrade to [SIDE-security_cam repo](https://github.com/GianFederico/SIDE-security_cam). 
 This version does everything that the previous versione did, but it also recognizes the faces in the frame using haarcascade to detect the face and LBPH to recognize it.
 At the moment it only recognizes me, but you can add any folder containing several pictures of the person you want the program to identificate.
 
